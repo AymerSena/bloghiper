@@ -1,6 +1,7 @@
 Hola esta es la primera linea de este archivo plano 
 
-Aymer Yesid Cruz 40 años años de edad 
+Aymer Yesid Cruz 24 años años de edad 
 
+Soy analista de sistemas 
 
-tercera lina añadida ahora 
+Estas modificaciones seran las ultimas.
